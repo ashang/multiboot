@@ -1,0 +1,1 @@
+EFI/archiso/efiboot.img: DOS/MBR boot sector, code offset 0x3c+2, OEM-ID "mkfs.fat", sectors/cluster 4, reserved sectors 4, root entries 512, Media descriptor 0xf8, sectors/FAT 80, sectors/track 63, heads 255, sectors 81920 (volumes > 32 MB), serial number 0x53584b91, label: "ARCHISO_EFI", FAT (16 bit)
